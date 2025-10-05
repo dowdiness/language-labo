@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "@tailwindcss/vite": "4.0.17",
-    "rabbit-tea-vite": "^1.0.0"
+    "rabbit-tea-vite": "github:dowdiness/rabbit-tea-vite"
   },
   "scripts": {
     "dev": "vite",
